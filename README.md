@@ -1,2 +1,2 @@
-# hello-word
-Hello word
+# thesis  1
+latihan
